@@ -14,7 +14,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="">
     <!-- Custom Fonts Css-->
     <link href="css/fonts.css" rel="stylesheet" media="screen">
-    <!-- Bootstrap Css -->           
+    <!-- Bootstrap Css -->
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     <!-- SlickNav Css -->
     <link href="css/slicknav.min.css" rel="stylesheet">
@@ -61,12 +61,12 @@
     <!-- Page Header End -->
 
     <!-- Empty Cart Page Start -->
-     <div class="container">
+    <div class="container">
         <div class="row">
             <div id="cart-items"></div>
         </div>
-     </div>
-    
+    </div>
+
     <h3 id="cart-items2">Total: $<span id="cart-total">0.00</span></h3>
 
     <script>
