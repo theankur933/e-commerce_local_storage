@@ -273,7 +273,7 @@
                                     <p>Windows, Mac, Wi‑Fi, USB and mobile — first print without the guesswork.</p>
                                 </div>
                                 <div class="exclusive-offer-item-btn" bis_skin_checked="1">
-                                    <a href="knowledge-setup.php" class="btn-default btn-border" bis_skin_checked="1">Open setup articles</a>
+                                    <a href="printer-setup.php" class="btn-default btn-border" bis_skin_checked="1">Open setup articles</a>
                                 </div>
                             </div>
                             <div class="exclusive-offer-item-image" bis_skin_checked="1">
@@ -292,7 +292,7 @@
                                     <p>Offline, jams, streaks, cartridges and stuck queues — symptom to steps.</p>
                                 </div>
                                 <div class="exclusive-offer-item-btn" bis_skin_checked="1">
-                                    <a href="knowledge-troubleshooting.php" class="btn-default btn-border" bis_skin_checked="1">Open troubleshooting</a>
+                                    <a href="knowledge.php" class="btn-default btn-border" bis_skin_checked="1">Open troubleshooting</a>
                                 </div>
                             </div>
                             <div class="exclusive-offer-item-image" bis_skin_checked="1">
