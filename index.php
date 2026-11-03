@@ -241,8 +241,10 @@
                     <!-- Product Item List End -->
                 </div>
             </div>
-            <div class="hero-content-btn text-center mt-5 wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;" bis_skin_checked="1">
-                <a href="shop.php" class="btn-default" bis_skin_checked="1">Browse all accessories</a>
+            <div class="product-learn-more-btn wow fadeInUp" data-wow-delay="0.2s">
+                <a href="shop.php" id="loadMoreBtn" class="btn-default">
+                    Load More
+                </a>
             </div>
         </div>
     </div>

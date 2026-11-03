@@ -2652,7 +2652,6 @@ h3.product-item-price span {
 
 .page-header {
     position: relative;
-    background-image: url('../images/page-header-bg-image.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -2916,7 +2915,6 @@ h3.product-item-price span {
 
 .our-values {
     position: relative;
-    background-image: url('../images/our-values-bg-image.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -8625,7 +8623,7 @@ ul.view-order-product-info-list li span {
     border-radius: 12px;
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
 
-    border-left: 4px solid #22c55e;
+    border-left: 4px solid #1b4d6b;
 
     animation: slideIn 0.4s ease forwards;
 }
@@ -8636,7 +8634,7 @@ ul.view-order-product-info-list li span {
     min-width: 35px;
 
     background: #dcfce7;
-    color: #16a34a;
+    color: #1b4d6b;
 
     border-radius: 50%;
 
