@@ -135,14 +135,6 @@
                                 <h2>Showing all results</h2>
                             </div>
                             <div class="product-category-result-info">
-                                <div class="product-category-result-pagination">
-                                    <ul>
-                                        <li><a href="">1</a></li>
-                                        <li><a href="">9</a></li>
-                                        <li><a href="">12</a></li>
-                                        <li><a href="">15</a></li>
-                                    </ul>
-                                </div>
                                 <div class="product-category-sorting-list">
                                     <select name="sorting_list" class="form-control form-select" id="sorting_list" required>
                                         <option value="" disabled selected>Default Sorting</option>
