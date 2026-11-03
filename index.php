@@ -101,7 +101,7 @@
                     <!-- Section Title End -->
                 </div>
             </div>
-            <div class="row">
+            <div class="row mt-4">
                 <div class="col-lg-12">
                     <!-- Product Item List Start -->
                     <div class="product-item-list">
@@ -241,14 +241,14 @@
                     <!-- Product Item List End -->
                 </div>
             </div>
-            <div class="hero-content-btn text-center mt-4 wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;" bis_skin_checked="1">
+            <div class="hero-content-btn text-center mt-5 wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;" bis_skin_checked="1">
                 <a href="shop.php" class="btn-default" bis_skin_checked="1">Browse all accessories</a>
             </div>
         </div>
     </div>
     <!-- Our Products Section End -->
     <!-- Our Category Section Start -->
-    <div class="our-category mt-3">
+    <div class="our-category">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">
@@ -754,6 +754,7 @@
     </div>
     <!-- Free guides Section End -->
     <?php include 'footer.php' ?>
+    <script src="js/loadMoreBtn.js"></script>
     <script src="js/addToCart.js"></script>
     <!-- Jquery Library File -->
     <script src="js/jquery-3.7.1.min.js"></script>

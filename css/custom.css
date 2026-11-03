@@ -495,8 +495,9 @@ a:focus {
 /****************************************/
 
 header.main-header {
-    position: relative;
+    position: sticky;
     z-index: 100;
+    top: 0;
 }
 
 header.main-header .header-sticky {
