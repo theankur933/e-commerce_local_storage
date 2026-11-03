@@ -56,10 +56,13 @@
                             </a>
                         </li> -->
                         <li>
-                            <a href="cart.php">
-                                <img src="images/icon-cart-primary.svg" alt="">Cart
+                            <a href="cart.php" class="header-cart">
+                                <span class="cart-icon-wrapper">
+                                    <img src="images/icon-cart-primary.svg" alt="Cart">
+                                    <span id="cart-count" class="cart-count">0</span>
+                                </span>
+                                Cart
                             </a>
-                            <!-- <span id="cart-count" class="cart-count">0</span> -->
                         </li>
                     </ul>
                 </div>

@@ -105,13 +105,10 @@
         }
 
         function changeQuantity(index, amount) {
-
             cart[index].quantity += amount;
-
             if (cart[index].quantity <= 0) {
                 cart.splice(index, 1);
             }
-
             localStorage.setItem('cart', JSON.stringify(cart));
             displayCart();
         }
@@ -121,7 +118,6 @@
             localStorage.setItem('cart', JSON.stringify(cart));
             displayCart();
         }
-
         displayCart();
     </script>
     <!-- Empty Cart Page end -->
