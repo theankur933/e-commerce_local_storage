@@ -82,15 +82,10 @@
                 <img src="${item.image}" alt="${item.name}">
                 <h5>${item.name}</h5>
                 <p>Price: $${item.price.toFixed(2)}</p>
-
-                <button onclick="changeQuantity(${index}, -1)">-</button>
-
-                ${item.quantity}
-
-                <button onclick="changeQuantity(${index}, 1)">+</button>
-
+                <button class="count-btn" onclick="changeQuantity(${index}, -1)">-</button>
+                <span class="quantity-number">${item.quantity}</span>
+                <button class="count-btn" onclick="changeQuantity(${index}, 1)">+</button>
                 <p>Subtotal: $${subtotal.toFixed(2)}</p>
-
                 <button class="cart-btn" onclick="removeItem(${index})">Remove</button>
             </div>
             <hr>
