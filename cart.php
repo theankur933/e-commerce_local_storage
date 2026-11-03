@@ -61,7 +61,12 @@
     <!-- Page Header End -->
 
     <!-- Empty Cart Page Start -->
-    <div id="cart-items"></div>
+     <div class="container">
+        <div class="row">
+            <div id="cart-items"></div>
+        </div>
+     </div>
+    
     <h3 id="cart-items2">Total: $<span id="cart-total">0.00</span></h3>
 
     <script>
@@ -93,7 +98,7 @@
             });
 
             document.getElementById('cart-items').innerHTML =
-                cartHTML || "Your cart is empty.";
+                cartHTML || "<span>Your cart is empty.</span>";
 
             document.getElementById('cart-total').innerText =
                 total.toFixed(2);

@@ -8499,9 +8499,12 @@ ul.view-order-product-info-list li span {
     padding: 25px 0px;
     font-size: 25px;
     display: flex;
-    justify-content: center;
     flex-wrap: wrap;
     gap: 10px;
+}
+
+#cart-items span {
+    margin: 0 auto;
 }
 
 #cart-items2 {
@@ -8515,7 +8518,7 @@ ul.view-order-product-info-list li span {
 
 .cart-product img {
     border-radius: 10px;
-    width: 400px;
+    width: 300px;
     height: 300px;
     object-fit: cover;
 }
