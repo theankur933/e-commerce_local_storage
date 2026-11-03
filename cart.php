@@ -14,7 +14,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="">
     <!-- Custom Fonts Css-->
     <link href="css/fonts.css" rel="stylesheet" media="screen">
-    <!-- Bootstrap Css -->
+    <!-- Bootstrap Css -->           
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     <!-- SlickNav Css -->
     <link href="css/slicknav.min.css" rel="stylesheet">
