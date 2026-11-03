@@ -151,7 +151,7 @@
                         <!-- Product Category Filter Header End -->
 
                         <!-- Product Item List Start -->
-                        <div class="product-item-list">
+                        <div class="product-item-list" id="product-container">
                             <!-- Product Item Start -->
                             <div class="product-item wow fadeInUp">
                                 <div class="product-item-header">
@@ -417,7 +417,9 @@
 
                         <!-- Product Leader More Button Start -->
                         <div class="product-learn-more-btn wow fadeInUp" data-wow-delay="0.2s">
-                            <a href="" class="btn-default">Load More</a>
+                            <a href="javascript:void(0);" id="loadMoreBtn" class="btn-default">
+                                Load More
+                            </a>
                         </div>
                         <!-- Product Leader More Button End -->
                     </div>
@@ -430,6 +432,7 @@
 
     <?php include 'footer.php' ?>
     <script src="js/addToCart.js"></script>
+    <script src="js/loadMoreBtn.js"></script>
     <!-- Jquery Library File -->
     <script src="js/jquery-3.7.1.min.js"></script>
     <!-- Bootstrap js file -->
