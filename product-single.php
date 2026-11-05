@@ -70,16 +70,6 @@
                                                 <img src="images/toner.jpg" alt="Brother TN-760 High-Yield Toner">
                                             </figure>
                                         </div>
-                                        <div class="swiper-slide">
-                                            <figure class="imgae-anime">
-                                                <img src="images/product-thumbnail-image-1.png" alt="">
-                                            </figure>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <figure class="imgae-anime">
-                                                <img src="images/product-thumbnail-image-2.png" alt="">
-                                            </figure>
-                                        </div>
                                     </div>
                                 </div>
                                 <!-- Product Single Image Item End -->
@@ -454,8 +444,6 @@
     <script src="js/validator.min.js"></script>
     <!-- SlickNav js file -->
     <script src="js/jquery.slicknav.js"></script>
-    <!-- Swiper js file -->
-    <script src="js/swiper-bundle.min.js"></script>
     <!-- Counter js file -->
     <script src="js/jquery.waypoints.min.js"></script>
     <script src="js/jquery.counterup.min.js"></script>
@@ -475,8 +463,6 @@
     <script src="js/jquery.mb.YTPlayer.min.js"></script>
     <!-- Wow js file -->
     <script src="js/wow.min.js"></script>
-    <!-- Main Custom js file -->
-    <script src="js/function.js"></script>
 </body>
 
 </html>
